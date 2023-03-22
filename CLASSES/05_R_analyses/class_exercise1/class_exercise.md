@@ -682,6 +682,7 @@ ggplot(num_peaks_df, aes(x = num_peaks, fill = tf)) +
   geom_histogram(bins = 10)
 ```
 
+
 ![](class_exercise_files/figure-gfm/unnamed-chunk-11-1.png)<!-- -->
 
 ### Cool now I am ready to send my result to my collaborator as a
